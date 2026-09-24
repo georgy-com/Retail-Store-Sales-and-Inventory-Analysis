@@ -1,3 +1,5 @@
+Capstone Overview:
+
 The Retail Store Sales and Inventory Analysis project was developed using Microsoft Power BI to evaluate sales performance, inventory efficiency, product demand patterns, seasonal trends, and operational effectiveness across a multi-location retail chain. The primary objective was to identify factors contributing to inventory imbalances, stockouts, excess inventory, and inconsistent sales performance while providing data-driven recommendations to improve profitability and inventory management.
 
 The analysis was conducted on a dataset containing 9,994 retail transaction records. Data cleaning, transformation, and modeling were performed to ensure data quality before developing interactive dashboards and key performance indicators (KPIs) for business decision-making.
